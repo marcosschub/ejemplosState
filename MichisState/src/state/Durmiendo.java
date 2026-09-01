@@ -8,7 +8,7 @@ public class Durmiendo implements IEstadoGato{
 
     @Override
     public void acariciar(Gato gato) {
-        System.out.println("Ronronea y sigue durmienndo...");
+        System.out.println("Ronronea y sigue durmiendo...");
     }
 
     @Override
